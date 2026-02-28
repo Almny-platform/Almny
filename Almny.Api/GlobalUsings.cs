@@ -1,0 +1,16 @@
+global using Almny.Api.Abstractions;
+global using Almny.Api.Authentication;
+global using Almny.Api.Configurations;
+global using Almny.Api.Contracts.Authentication;
+global using Almny.Api.Entities;
+global using Almny.Api.Errors;
+global using Almny.Api.Extensions;
+global using Almny.Api.Helpers;
+global using Almny.Api.Mapping;
+global using Almny.Api.Persistence;
+global using Almny.Api.Services;
+global using Almny.Api.Services.EmailTemplates;
+global using FluentValidation;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.Options;
